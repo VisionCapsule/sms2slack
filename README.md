@@ -4,3 +4,7 @@
 
 1.) Add your GitHub username and/or e-mail to the list below to get credit for your attendace.
 
+
+Crypto Night 1
+------------------
+1. SalMac86
