@@ -15,3 +15,6 @@ Crypto Night 1
 
 -----------
 The Challenge
+We're building a Cryptocurrency, with a supporting blockchain and a digital wallet. This is a pretty ambitious goal, so let's unpack that a bit. We'll have to:
+
+Create a server to manage our custom blockchain
