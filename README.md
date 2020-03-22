@@ -23,3 +23,6 @@ Create a wallet that allows us to transfer our currency between parties
 This all means we need at least 3 components to this project: 1) a custom blockchain, and 2) a custom Cryptocurrency and 3) a digital wallet.
 
 The Challenge this week is to build a custom Cryptocurrency using the JavaScript blockchain that we made last session.
+We're going to use the following definition of a Cryptocurrency for the purposes of this session - from Jan Lanksy's paper Possible State Approaches to Cryptocurrencies
+
+(1) The system does not require a central authority, distributed achieve consensus on its state.
