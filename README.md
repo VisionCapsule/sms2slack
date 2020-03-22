@@ -30,3 +30,4 @@ We're going to use the following definition of a Cryptocurrency for the purposes
 (3) The system defines whether new cryptocurrency units can be created. If new cryptocurrency units can be created, the system defines the circumstances of their origin and how to determine the ownership of these new units.
 (4) Ownership of cryptocurrency units can be proved exclusively cryptographically.
 (5) The system allows transactions to be performed in which ownership of the cryptographic units is changed. A transaction statement can only be issued by an entity proving the current ownership of these units.
+(6) If two different instructions for changing the ownership of the same cryptographic units are simultaneously entered, the system performs at most one of them.
