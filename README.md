@@ -31,3 +31,6 @@ We're going to use the following definition of a Cryptocurrency for the purposes
 (4) Ownership of cryptocurrency units can be proved exclusively cryptographically.
 (5) The system allows transactions to be performed in which ownership of the cryptographic units is changed. A transaction statement can only be issued by an entity proving the current ownership of these units.
 (6) If two different instructions for changing the ownership of the same cryptographic units are simultaneously entered, the system performs at most one of them.
+
+
+To keep things simple, we'll continue to use Node.JS for our server. We'll use Cloud9 as the IDE (Integrated Development Environment) for the server, and host it on AWS. Each mob will share a Cloud9 / EC2 instance, and everydev is sponsoring it. 
