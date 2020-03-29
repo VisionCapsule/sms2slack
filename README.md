@@ -36,3 +36,7 @@ We're going to use the following definition of a Cryptocurrency for the purposes
 To keep things simple, we'll continue to use Node.JS for our server. We'll use Cloud9 as the IDE (Integrated Development Environment) for the server, and host it on AWS. Each mob will share a Cloud9 / EC2 instance, and everydev is sponsoring it. 
 
 For the digital wallet app, we recommend that each mob uses Visual Studio Code today, but your IDE of choice will do just fine.
+
+Step-by-step Challenge for today:
+
+Get your development environment up to date with the master branch
