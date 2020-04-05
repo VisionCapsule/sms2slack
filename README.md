@@ -43,3 +43,5 @@ Get your development environment up to date with the master branch
 https://github.com/everydev1618/crypto-hackathon
 Implement a Cryptocurrency that will operate on our custom blockchain
 Make sure your cryptocurrency
+Has a defined method of creation
+Is cryptographically secured
