@@ -40,3 +40,6 @@ For the digital wallet app, we recommend that each mob uses Visual Studio Code t
 Step-by-step Challenge for today:
 
 Get your development environment up to date with the master branch
+https://github.com/everydev1618/crypto-hackathon
+Implement a Cryptocurrency that will operate on our custom blockchain
+Make sure your cryptocurrency
