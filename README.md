@@ -45,3 +45,5 @@ Implement a Cryptocurrency that will operate on our custom blockchain
 Make sure your cryptocurrency
 Has a defined method of creation
 Is cryptographically secured
+Can be exchanged
+Start by...
