@@ -48,3 +48,5 @@ Is cryptographically secured
 Can be exchanged
 Start by...
 Registering for 1618, so we can create you an everydev gitlab account and track your progress:
+
+https://www.everydev.com/1618-registration/ 
