@@ -50,3 +50,5 @@ Start by...
 Registering for 1618, so we can create you an everydev gitlab account and track your progress:
 
 https://www.everydev.com/1618-registration/ 
+
+Get together with a facilitator to get your GitHub account added to the 1618 Hackathon team on the everydev organization.
