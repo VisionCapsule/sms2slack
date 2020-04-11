@@ -54,3 +54,8 @@ https://www.everydev.com/1618-registration/
 Get together with a facilitator to get your GitHub account added to the 1618 Hackathon team on the everydev organization.
 
 Once you have added your GitHub account, you should have access to the Crypto Hackathon repo here:
+
+=================
+Cryptocurrency Implementation
+Now that we have a server with a blockchain running, it's time for us to craft our currency.
+This could be tricky! I'd recommend taking more than a few minutes to have some round-table discussion to clarify the requirements and features you want to implement for our currency.
