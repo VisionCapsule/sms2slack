@@ -61,3 +61,6 @@ Now that we have a server with a blockchain running, it's time for us to craft o
 This could be tricky! I'd recommend taking more than a few minutes to have some round-table discussion to clarify the requirements and features you want to implement for our currency.
 In the end, it's up to you, but your currency should be using some kind of cryptographic public/private key setup and it should be relatively hard to make bogus transactions.
 It might be helpful to take a look at ERC-20 here
+and keep these concepts in mind as you implement your cryptocurrency:
+
+(1) The system does not require a central authority, distributed achieve consensus on its state.
