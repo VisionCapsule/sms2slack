@@ -64,3 +64,4 @@ It might be helpful to take a look at ERC-20 here
 and keep these concepts in mind as you implement your cryptocurrency:
 
 (1) The system does not require a central authority, distributed achieve consensus on its state.
+(2) The system keeps an overview of cryptocurrency units and their ownership.
