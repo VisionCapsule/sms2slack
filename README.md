@@ -66,3 +66,4 @@ and keep these concepts in mind as you implement your cryptocurrency:
 (1) The system does not require a central authority, distributed achieve consensus on its state.
 (2) The system keeps an overview of cryptocurrency units and their ownership.
 (3) The system defines whether new cryptocurrency units can be created. If new cryptocurrency units can be created, the system defines the circumstances of their origin and how to determine the ownership of these new units.
+(4) Ownership of cryptocurrency units can be proved exclusively cryptographically.
