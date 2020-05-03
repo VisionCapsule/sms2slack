@@ -72,3 +72,5 @@ and keep these concepts in mind as you implement your cryptocurrency:
 
 
 Also, this may be a good time to make sure that our blockchain implementation is able to Validate the Integrity of the blocks!
+
+If you are looking for a bit more of challenge - make our blockchain run on multiple nodes, on different machines! (While still staying in sync.)
