@@ -69,3 +69,6 @@ and keep these concepts in mind as you implement your cryptocurrency:
 (4) Ownership of cryptocurrency units can be proved exclusively cryptographically.
 (5) The system allows transactions to be performed in which ownership of the cryptographic units is changed. A transaction statement can only be issued by an entity proving the current ownership of these units.
 (6) If two different instructions for changing the ownership of the same cryptographic units are simultaneously entered, the system performs at most one of them.
+
+
+Also, this may be a good time to make sure that our blockchain implementation is able to Validate the Integrity of the blocks!
