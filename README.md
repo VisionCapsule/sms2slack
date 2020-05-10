@@ -78,3 +78,5 @@ If you are looking for a bit more of challenge - make our blockchain run on mult
 
 ====
 mkdir ~/naiveStuff
+
+cd ~/naiveStuff
