@@ -82,3 +82,7 @@ mkdir ~/naiveStuff
 cd ~/naiveStuff
 
 git clone https://github.com/lhartikk/naivecoin.git
+
+cd naivecoin
+
+git checkout chapter6
