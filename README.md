@@ -86,3 +86,7 @@ git clone https://github.com/lhartikk/naivecoin.git
 cd naivecoin
 
 git checkout chapter6
+
+npm install
+
+npm start
