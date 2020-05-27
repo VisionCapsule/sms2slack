@@ -92,3 +92,5 @@ npm install
 npm start
 
 ===== new shell
+
+cd <path to where you made>/naiveStuff
