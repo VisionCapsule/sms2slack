@@ -94,3 +94,5 @@ npm start
 ===== new shell
 
 cd <path to where you made>/naiveStuff
+
+git clone https://github.com/lhartikk/naivecoin-ui.git
