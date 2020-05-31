@@ -96,3 +96,7 @@ npm start
 cd <path to where you made>/naiveStuff
 
 git clone https://github.com/lhartikk/naivecoin-ui.git
+
+cd naivecoin-ui/naivecoin-wallet
+
+npm install
