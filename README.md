@@ -108,3 +108,5 @@ localhost:8081
 ===== new shell
 
 cd <path to where you made>/naiveStuff
+
+cd naivecoin-explorer
