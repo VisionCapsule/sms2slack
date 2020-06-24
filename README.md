@@ -110,3 +110,5 @@ localhost:8081
 cd <path to where you made>/naiveStuff
 
 cd naivecoin-explorer
+
+npm install
