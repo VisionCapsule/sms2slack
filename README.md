@@ -112,3 +112,5 @@ cd <path to where you made>/naiveStuff
 cd naivecoin-explorer
 
 npm install
+
+npm start
