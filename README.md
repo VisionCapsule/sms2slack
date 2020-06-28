@@ -114,3 +114,5 @@ cd naivecoin-explorer
 npm install
 
 npm start
+
+localhost:<it will tell you>
