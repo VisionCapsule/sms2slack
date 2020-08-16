@@ -1,1 +1,1 @@
-const Block = requir
+const Block = require
