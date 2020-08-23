@@ -1,1 +1,1 @@
-const Block = require
+const Block = require('.
