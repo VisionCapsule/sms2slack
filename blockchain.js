@@ -1,1 +1,1 @@
-const Block = require('./block.
+const Block = require('./block.js'
