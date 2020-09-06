@@ -1,3 +1,3 @@
 const Block = require('./block.js');
 
-class Blo
+class Block
