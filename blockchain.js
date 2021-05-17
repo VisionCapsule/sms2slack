@@ -5,4 +5,4 @@ class Blockchain {
         this.chain=[this.createGenesisBlock()];//creates a new chain with a block set by out createGenesisBlock method
     }
 
-    create
+    createGe
