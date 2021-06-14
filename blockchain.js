@@ -6,4 +6,4 @@ class Blockchain {
     }
 
     createGenesisBlock(){
-        return new Block(
+        return new Block(0
