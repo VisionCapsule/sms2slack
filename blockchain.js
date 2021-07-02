@@ -8,3 +8,4 @@ class Blockchain {
     createGenesisBlock(){
         return new Block(0, Date.now(), "Genesis block", "0")
     }
+
