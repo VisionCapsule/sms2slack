@@ -9,4 +9,4 @@ class Blockchain {
         return new Block(0, Date.now(), "Genesis block", "0")
     }
 
-    getLate
+    getLates
