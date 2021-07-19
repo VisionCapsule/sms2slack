@@ -10,4 +10,4 @@ class Blockchain {
     }
 
     getLatestBlock(){
-        return th
+        return thi
