@@ -10,4 +10,4 @@ class Blockchain {
     }
 
     getLatestBlock(){
-        return this.chain[this
+        return this.chain[this.cha
