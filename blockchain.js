@@ -11,4 +11,4 @@ class Blockchain {
 
     getLatestBlock(){
         return this.chain[this.chain.length - 1];
-   
+    }
