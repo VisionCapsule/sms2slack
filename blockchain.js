@@ -13,4 +13,5 @@ class Blockchain {
         return this.chain[this.chain.length - 1];
     }
 
-    addBlock(newData) 
+    addBlock(newData) {
+ 
