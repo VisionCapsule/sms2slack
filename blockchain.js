@@ -14,4 +14,4 @@ class Blockchain {
     }
 
     addBlock(newData) {
-       
+        c
