@@ -14,4 +14,4 @@ class Blockchain {
     }
 
     addBlock(newData) {
-        const pre
+        const previous
