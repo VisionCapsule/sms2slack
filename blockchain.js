@@ -15,4 +15,4 @@ class Blockchain {
 
     addBlock(newData) {
         const previous = this.getLatestBlock();
-        let newBlock = new Block(previous.index + 1, Date.now(), newD
+        let newBlock = new Block(previous.index + 1, Date.now(), newDa
