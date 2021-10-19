@@ -18,4 +18,4 @@ class Blockchain {
         let newBlock = new Block(previous.index + 1, Date.now(), newData, previous.hash)
         this.chain.push(newBlock);
         return this.chain;
-  
+    
