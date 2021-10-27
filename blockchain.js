@@ -20,4 +20,5 @@ class Blockchain {
         return this.chain;
     }
 
-    isChainValid()
+    isChainValid(){
+  
