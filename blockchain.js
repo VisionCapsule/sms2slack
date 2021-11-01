@@ -21,4 +21,4 @@ class Blockchain {
     }
 
     isChainValid(){
-        for(let i =
+        for(let i = 1
