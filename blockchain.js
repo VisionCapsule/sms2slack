@@ -22,4 +22,4 @@ class Blockchain {
 
     isChainValid(){
         for(let i = 1; i < this.chain.length; i++){
-            const currentBlock = this.chain[
+            const currentBlock = this.chain[i];
