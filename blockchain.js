@@ -26,4 +26,4 @@ class Blockchain {
             const previousBlock = this.chain[i - 1];
 
             if(currentBlock.hash !== currentBlock.calculateHash()){
-                ret
+                retur
