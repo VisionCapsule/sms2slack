@@ -28,3 +28,4 @@ class Blockchain {
             if(currentBlock.hash !== currentBlock.calculateHash()){
                 return false;                
             }
+
