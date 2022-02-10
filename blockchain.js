@@ -29,4 +29,4 @@ class Blockchain {
                 return false;                
             }
 
-            if(cu
+            if(curren
