@@ -29,4 +29,4 @@ class Blockchain {
                 return false;                
             }
 
-            if(currentBlock.previousHash !== previo
+            if(currentBlock.previousHash !== previousB
