@@ -30,3 +30,4 @@ class Blockchain {
             }
 
             if(currentBlock.previousHash !== previousBlock.hash){
+ 
