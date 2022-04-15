@@ -35,4 +35,4 @@ class Blockchain {
             
         }
 
-        return
+        return tr
