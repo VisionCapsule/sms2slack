@@ -39,4 +39,4 @@ class Blockchain {
 
     }
 
-    dis
+    displ
