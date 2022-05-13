@@ -40,4 +40,4 @@ class Blockchain {
     }
 
     displayChain() {
-        return JSO
+        return JSON.s
