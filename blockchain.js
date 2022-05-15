@@ -40,4 +40,4 @@ class Blockchain {
     }
 
     displayChain() {
-        return JSON.stringify
+        return JSON.stringify(thi
