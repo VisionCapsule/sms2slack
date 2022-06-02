@@ -44,4 +44,4 @@ class Blockchain {
     }
 }
 
-module.
+module.ex
