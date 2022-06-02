@@ -44,4 +44,4 @@ class Blockchain {
     }
 }
 
-mod
+module
