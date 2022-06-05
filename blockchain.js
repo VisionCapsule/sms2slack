@@ -44,4 +44,4 @@ class Blockchain {
     }
 }
 
-module.exports = B
+module.exports = Blo
