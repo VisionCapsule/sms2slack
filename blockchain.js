@@ -44,4 +44,4 @@ class Blockchain {
     }
 }
 
-module.exports = Blockchai
+module.exports = Blockchain
