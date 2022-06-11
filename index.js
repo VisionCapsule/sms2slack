@@ -14,3 +14,7 @@ app.get('/block', (req, res) => {
     const newBlock = new Block(0, Date.now(), { amount: 5 });
     res.send(JSON.stringify(newBlock));
 })
+
+app.get('/blockchain',(req, res) => {
+    res.send(newBlockchain.displayChain())
+})
