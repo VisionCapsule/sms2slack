@@ -9,3 +9,5 @@ const newBlockchain = new Blockchain();
 app.get('/hello', (req, res) => {
     res.send('Hi');
 })
+
+app.get('/block', (req, res) => {
