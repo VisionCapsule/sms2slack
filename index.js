@@ -18,3 +18,6 @@ app.get('/block', (req, res) => {
 app.get('/blockchain',(req, res) => {
     res.send(newBlockchain.displayChain())
 })
+
+app.get('/addBlock',(req, res) => {
+    res.send(newBlockchain.addBlock(req.query.data))
