@@ -21,3 +21,4 @@ app.get('/blockchain',(req, res) => {
 
 app.get('/addBlock',(req, res) => {
     res.send(newBlockchain.addBlock(req.query.data))
+})
