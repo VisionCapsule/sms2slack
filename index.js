@@ -22,3 +22,6 @@ app.get('/blockchain',(req, res) => {
 app.get('/addBlock',(req, res) => {
     res.send(newBlockchain.addBlock(req.query.data))
 })
+
+app.listen(PORT, () => {
+    console.log(`server is listening on ${PORT}`)
