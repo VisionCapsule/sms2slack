@@ -25,3 +25,4 @@ app.get('/addBlock',(req, res) => {
 
 app.listen(PORT, () => {
     console.log(`server is listening on ${PORT}`)
+})
